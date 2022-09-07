@@ -55,11 +55,11 @@ Only Login users can do the following:
     * WPForms Lite
 
 # Mockup & Framewire
-![alt text](img/Desktop%20-%201.png)
-![alt text](img/Desktop%20-%202.png)
-![alt text](img/Desktop%20-%203.png)
-![alt text](img/Desktop%20-%204.png)
-![alt text](img/Desktop%20-%205.png)
-![alt text](img/Desktop%20-%206.png)
-![alt text](img/Desktop%20-%207.png)
-![alt text](img/Desktop%20-%208.png)
+![alt text](./img/Desktop%20-%201.png)
+![alt text](./img/Desktop%20-%202.png)
+![alt text](./img/Desktop%20-%203.png)
+![alt text](./img/Desktop%20-%204.png)
+![alt text](./img/Desktop%20-%205.png)
+![alt text](./img/Desktop%20-%206.png)
+![alt text](./img/Desktop%20-%207.png)
+![alt text](./img/Desktop%20-%208.png)
