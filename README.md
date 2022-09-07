@@ -1,5 +1,7 @@
 # Electronic Store
 
+# [Trello](https://trello.com/b/BVKN5tPs/wordpress-store)
+
 You will work individually using WordPress.
 
 You have to build the website using WordPress from scratch, and use the Trello board to manage your project, Your site is divided into 5 main pages.
